@@ -1,0 +1,1 @@
+[EXP 2_ Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios.pdf](https://github.com/user-attachments/files/19738993/EXP.2_.Comparative.Analysis.of.Naive.Prompting.versus.Basic.Prompting.Using.ChatGPT.Across.Various.Test.Scenarios.pdf)
